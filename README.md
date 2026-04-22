@@ -46,8 +46,6 @@ g++ pergunta6.cpp -o pergunta6 && ./pergunta6
 
 ## Integrantes do Grupo
 
-- (Adicione os nomes aqui)
-
----
+- 
 
 > Vamos Djimar! 🚀
