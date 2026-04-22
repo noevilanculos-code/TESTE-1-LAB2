@@ -46,6 +46,9 @@ g++ pergunta6.cpp -o pergunta6 && ./pergunta6
 
 ## Integrantes do Grupo
 
-- 
+- Denilson Sansao Uate;
+- Noe Vilanculos;
+- Honey Macario;
+- Sabura Tamimo Sorte.
 
 > Vamos Djimar! 🚀
